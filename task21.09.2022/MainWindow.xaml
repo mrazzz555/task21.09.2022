@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:task21._09._2022"
         mc:Ignorable="d"
         Title="Find all of the matching animals" Height="450" Width="400">
-    <Grid Margin="0,0,2,0">
+    <Grid Margin="0,0,2,0" x:Name="mainGrid">
         <Grid.ColumnDefinitions>
             
             <ColumnDefinition/>
